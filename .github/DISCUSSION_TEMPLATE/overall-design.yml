@@ -18,11 +18,13 @@ body:
       label: TF outputs involved
       description: Which task force specs or deliverables does this touch?
       options:
-        - label: Credentials Spec
-        - label: Trust Task Protocols Spec
-        - label: R-Cards Spec
-        - label: Agent Names Spec
+        - label: Credentials TF or Specs
+        - label: Trust Task Protocols TF or Specs
+        - label: R-Cards TF or Specs
+        - label: Agent Names TF or Specs
         - label: Multiple / cross-cutting
+        - label: Other TF or Spec
+        - label: I am not sure
   - type: textarea
     id: current
     attributes:

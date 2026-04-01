@@ -36,7 +36,9 @@ body:
         - Proof of concept
         - Working implementation
         - Published research
-        - Conference presentation
+        - Blog Post
+        - Whitepaper
+        - Presentation
         - Other
     validations:
       required: true
