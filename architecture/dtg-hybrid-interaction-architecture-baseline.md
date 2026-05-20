@@ -1,4 +1,4 @@
-# Decentralized Trust Graph Hybrid Component Architecture - Baseline
+# Decentralized Trust Graph Hybrid Interaction Architecture - Baseline
 
 ## Status
 
