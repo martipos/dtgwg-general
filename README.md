@@ -7,7 +7,7 @@
 ---
 
 ## Table of Content
-
+- [Latest Updates](#updates)
 - [About This Repository](#about-this-repository)
 - [DTGWG Overview](#dtgwg-overview)
 - [DTGWG Scope](#dtgwg-scope)
@@ -18,6 +18,11 @@
 - [License](#license)
 
 ---
+## Updates
+
+| Date | Update | Document | Status | Notes |
+|---|---|---|---|---|
+| 2026-05-20 | Added draft baseline for the DTG hybrid component architecture, including architecture layers, core components, key interaction patterns, and status caveats for formal terms, implementation-specific elements, and emerging concepts. | [DTG Hybrid Component Architecture Baseline](architecture/dtg-hybrid-component-architecture-baseline.md) | Draft baseline v0.1 | Informative contributor-facing architecture document; not a DTG specification. |
 
 ## About This Repository
 
